@@ -1,0 +1,4 @@
+Info 
+[{"model":"Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz","speed":2494,"times":{"user":19845937,"nice":0,"sys":14706406,"idle":350383015,"irq":1242484}},{"model":"Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz","speed":2494,"times":{"user":15636890,"nice":0,"sys":6836906,"idle":362461328,"irq":188531}},{"model":"Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz","speed":2494,"times":{"user":18555343,"nice":0,"sys":8859062,"idle":357520718,"irq":176078}},{"model":"Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz","speed":2494,"times":{"user":17688031,"nice":0,"sys":9188671,"idle":358058406,"irq":102984}}]
+win32
+DESKTOP-21TNR0B
