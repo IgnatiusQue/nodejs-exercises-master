@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "http": "0.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "request": "^2.88.0",
     "yargs": "^13.2.4"
   },
